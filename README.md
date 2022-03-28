@@ -98,6 +98,8 @@ Full-stack kenyan 🇰🇪 software engineer currently based in Johannesburg, So
 </a>
 </div>
 
+<br/>
+
 
 The above represents my core go-to stack for production-based systems. I do have knowledge in an array of other languages such as Dart (Flutter), Python, Node.Js, Livewire, ReactJs, SwelteJs amongst others.
 
