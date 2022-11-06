@@ -23,7 +23,7 @@
 
 *Waambaje* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/> - Swahili for "How are you doing?"
 
-Full-stack kenyan 🇰🇪 software engineer currently based in Johannesburg, South Africa 🇿🇦. Aspiring to achieve full nomadic status.
+Full-stack Kenyan 🇰🇪 software engineer, lived in multiple cities, back in Nairobi, Kenya 🇰🇪. Aspiring to achieve full nomadic status.
 
 
  I pride myself in not just writing _good_ code, but well structured and tested code that will not just stand the test of time, but the test of future code changes and iteractions.
