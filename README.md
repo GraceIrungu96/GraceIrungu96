@@ -6,13 +6,13 @@
 <h5 align="center">workout - eat - code - social - sleep - repeat  </h5>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ngunyimacharia/" target="_blank">
+  <a href="https://www.linkedin.com/in/grace-w-irungu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/ngunyimacharia" target="_blank">
+  <a href="https://x.com/sharkynahjames1" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="http://medium.com/@ngunyimacharia" target="_blank">
+  <a href="http://medium.com/@graceirungu96" target="_blank">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
