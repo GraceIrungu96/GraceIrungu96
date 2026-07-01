@@ -3,7 +3,7 @@
 </div>
 
 
-<h5 align="center">workout - eat - code - social - sleep - repeat  </h5>
+<h5 align="center">Data Engineer - pipelines - Python - ETL - distributed systems - repeat  </h5>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/grace-w-irungu/" target="_blank">
